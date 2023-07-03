@@ -12,9 +12,9 @@ This is a collection of algorithms that I have written in Python. I have also in
 
 Python syntax is used for all algorithms. Each algorithm is in its own file.
 
-### contributors
+### Contributors
 
-- Anthony Bosek
+- [Anthony Bosek](anthony-bosek.vercel.app)
 
 ```
 
