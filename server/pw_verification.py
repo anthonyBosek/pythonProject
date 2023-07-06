@@ -7,6 +7,7 @@ The password is hashed and salted when the user registers and is stored in the d
 """
 
 # import bcrypt
+bcrypt = "bcrypt"  # TODO: uncomment this line and delete this line when you are ready to test this file
 
 
 def verify_password(password, hashed_password):
