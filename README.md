@@ -1,21 +1,8 @@
-# Python Project / Algorithm Collection
 
-////////////////////////////////////////////////////////////////
-
-# Development
-
-## Description
-
-
-
-## Structure
-
-Python syntax is used...
+# Python Project
 
 ### Contributors
 
 - [Anthony Bosek](anthony-bosek.vercel.app)
 
-```
 
-```
